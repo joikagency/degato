@@ -68,5 +68,16 @@
     "image_url": "assets/img/products/cepillo-quitapelos-reutilizable-para-mascotas.jpg",
     "featured": false,
     "show_in_shop": true
+  },
+  {
+    "id": "prod-007",
+    "title": "Arenero gatos autolimpiable con app control",
+    "slug": "arenero-gatos-autolimpiable-con-app-control",
+    "category": "salud",
+    "description": "Arenero automático para gatos con autolimpieza, control por app y sistema de eliminación de olores. Ideal para hogares con uno o varios gatos.",
+    "affiliate_url": "https://amzn.to/48dvoE8",
+    "image_url": "assets/img/products/arenero-gatos-autolimpiable-con-app-control.jpg",
+    "featured": false,
+    "show_in_shop": true
   }
 ]
