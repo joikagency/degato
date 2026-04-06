@@ -79,5 +79,16 @@
     "image_url": "assets/img/products/arenero-gatos-autolimpiable-con-app-control.jpg",
     "featured": false,
     "show_in_shop": true
+  },
+  {
+    "id": "prod-008",
+    "title": "Rascador vertical Fukumaru en forma de L",
+    "slug": "rascador-vertical-fukumaru-en-forma-de-l",
+    "category": "rascadores",
+    "description": "Rascador vertical para gatos en forma de L, ideal para paredes y esquinas. Incluye pelota de juego y superficie amplia para rascar.",
+    "affiliate_url": "https://amzn.to/4shtEks",
+    "image_url": "assets/img/products/rascador-vertical-fukumaru-en-forma-de-l.jpg",
+    "featured": false,
+    "show_in_shop": true
   }
 ]
