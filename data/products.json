@@ -1,14 +1,14 @@
 [
   {
     "id": "prod-001",
-    "status": "listo_para_revisar",
-    "title": "Árbol rascador para gatos con cama y hamaca",
-    "slug": "arbol-rascador-para-gatos-con-cama-y-hamaca",
-    "category": "rascadores",
-    "description": "Árbol rascador para gatos con cueva, cama superior, hamaca y pelota de juego. Ideal para descanso, juego y rascado en interiores.",
-    "affiliate_url": "https://amzn.to/4sg7cIs",
-    "image_url": "assets/img/products/arbol-rascador-para-gatos-con-cama-y-hamaca.jpg",
-    "featured": false,
+    "status": "published",
+    "title": "Túnel para gatos con diseño 2 en 1",
+    "slug": "tunel-gatos-2-en-1",
+    "category": "juguetes",
+    "description": "Túnel plegable con diseño 2 en 1, ideal para que tu gato juegue, explore y se mantenga activo dentro de casa.",
+    "affiliate_url": "https://amzn.to/4i3Q0fF",
+    "image_url": "assets/img/products/tunel-2en1.jpg",
+    "featured": true,
     "show_in_shop": true
   },
   {
@@ -32,6 +32,17 @@
     "description": "Juguete con movimiento y plumas diseñado para estimular el instinto de caza y mantener a tu gato entretenido.",
     "affiliate_url": "https://amzn.to/4jrC6yy",
     "image_url": "assets/img/products/juguete-plumas.jpg",
+    "featured": false,
+    "show_in_shop": true
+  },
+  {
+    "id": "prod-004",
+    "title": "Árbol rascador para gatos con cama y hamaca",
+    "slug": "arbol-rascador-para-gatos-con-cama-y-hamaca",
+    "category": "rascadores",
+    "description": "Árbol rascador para gatos con cueva, cama superior, hamaca y pelota de juego. Ideal para descanso, juego y rascado en interiores.",
+    "affiliate_url": "https://amzn.to/4sg7cIs",
+    "image_url": "assets/img/products/arbol-rascador-para-gatos-con-cama-y-hamaca.jpg",
     "featured": false,
     "show_in_shop": true
   }
