@@ -57,5 +57,16 @@
     "image_url": "assets/img/products/caja-arenero-xl-con-bordes-altos-y-pala.jpg",
     "featured": false,
     "show_in_shop": true
+  },
+  {
+    "id": "prod-006",
+    "title": "Cepillo quitapelos reutilizable para mascotas",
+    "slug": "cepillo-quitapelos-reutilizable-para-mascotas",
+    "category": "accesorios",
+    "description": "Cepillo reutilizable para quitar pelo de mascotas de sofás, ropa y superficies textiles de forma rápida y práctica.",
+    "affiliate_url": "https://amzn.to/4cqmVzU",
+    "image_url": "assets/img/products/cepillo-quitapelos-reutilizable-para-mascotas.jpg",
+    "featured": false,
+    "show_in_shop": true
   }
 ]
