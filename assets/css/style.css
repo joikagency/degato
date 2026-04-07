@@ -34445,4 +34445,25 @@ Version: 1.0.0
 }
 
 /*------------------- RTL -------------------*/
+
+/*------------------- De Gato — Hero text white override -------------------*/
+.hero-style2 .hero-title {
+  color: #fff;
+}
+.hero-style2 .checklist li {
+  color: #fff;
+}
+.hero-style2 .checklist li::before {
+  background: #fff;
+}
+
+/*------------------- De Gato — Nav menu white override -------------------*/
+.header-layout1 .main-menu > ul > li > a {
+  color: #fff;
+}
+.header-layout1 .main-menu ul li:has(.sub-menu) > a:after,
+.header-layout1 .main-menu ul li.menu-item-has-children > a:after {
+  color: #fff;
+}
+
 /*# sourceMappingURL=style.css.map */
