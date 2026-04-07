@@ -9,7 +9,7 @@
     "affiliate_url": "https://amzn.to/4i3Q0fF",
     "image_url": "assets/img/products/tunel-2en1.jpg",
     "featured": true,
-    "show_in_shop": false
+    "show_in_shop": true
   },
   {
     "id": "prod-002",
@@ -21,7 +21,7 @@
     "affiliate_url": "https://amzn.to/4i6Iw3F",
     "image_url": "assets/img/products/cama-cueva.jpg",
     "featured": false,
-    "show_in_shop": false
+    "show_in_shop": true
   },
   {
     "id": "prod-003",
@@ -33,7 +33,7 @@
     "affiliate_url": "https://amzn.to/4jrC6yy",
     "image_url": "assets/img/products/juguete-plumas.jpg",
     "featured": false,
-    "show_in_shop": false
+    "show_in_shop": true
   },
   {
     "id": "prod-004",
@@ -132,6 +132,17 @@
     "description": "Comedero automático para gatos o perros pequeños con cámara HD, visión nocturna, audio bidireccional y control por app. Ideal para alimentar y supervisar a tu mascota a distancia.",
     "affiliate_url": "https://amzn.to/3OdkveC",
     "image_url": "assets/img/products/comedero-automatico-faroro-con-camara-y-app.jpg",
+    "featured": false,
+    "show_in_shop": true
+  },
+  {
+    "id": "prod-013",
+    "title": "Comedero automático oneisall de 5L con 2 tazones",
+    "slug": "comedero-automatico-oneisall-de-5l-con-2-tazones",
+    "category": "alimentacion",
+    "description": "Comedero automático de 5L para gatos con doble cuenco, grabación de voz y diseño pensado para alimentar a una o más mascotas de forma ordenada.",
+    "affiliate_url": "https://amzn.to/4vx1SDB",
+    "image_url": "assets/img/products/comedero-automatico-oneisall-de-5l-con-2-tazones.jpg",
     "featured": false,
     "show_in_shop": true
   }
