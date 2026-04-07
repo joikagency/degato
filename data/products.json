@@ -145,5 +145,16 @@
     "image_url": "assets/img/products/comedero-automatico-oneisall-de-5l-con-2-tazones.jpg",
     "featured": false,
     "show_in_shop": true
+  },
+  {
+    "id": "prod-014",
+    "title": "Comedero automático PETLIV con 2 cuencos y app",
+    "slug": "comedero-automatico-petliv-con-2-cuencos-y-app",
+    "category": "alimentacion",
+    "description": "Comedero automático para gatos con doble cuenco, control por app, conectividad WiFi y audio bidireccional. Ideal para alimentar a tu mascota con más control y comodidad.",
+    "affiliate_url": "https://amzn.to/3OpcweD",
+    "image_url": "assets/img/products/comedero-automatico-petliv-con-2-cuencos-y-app.jpg",
+    "featured": false,
+    "show_in_shop": true
   }
 ]
