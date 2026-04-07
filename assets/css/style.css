@@ -34466,4 +34466,44 @@ Version: 1.0.0
   color: #fff;
 }
 
+/*------------------- De Gato — Sticky header: texto negro + header más delgado -------------------*/
+.header-layout1 .sticky-wrapper.sticky .main-menu > ul > li > a {
+  color: var(--title-color);
+  padding: 18px 0;
+}
+.header-layout1 .sticky-wrapper.sticky .main-menu ul li:has(.sub-menu) > a:after,
+.header-layout1 .sticky-wrapper.sticky .main-menu ul li.menu-item-has-children > a:after {
+  color: var(--title-color);
+}
+.header-layout1 .sticky-wrapper.sticky .menu-area {
+  padding: 5px 0;
+}
+.header-layout1 .sticky-wrapper.sticky .header-logo img {
+  max-width: 110px;
+}
+
+/*------------------- De Gato — Botones categoría tienda: naranja -------------------*/
+.category-filter-tags .th-btn.style3 {
+  background: var(--theme-color);
+  border-color: var(--theme-color);
+  color: #fff;
+}
+.category-filter-tags .th-btn.style3:after,
+.category-filter-tags .th-btn.style3:before {
+  background: var(--theme-color);
+}
+.category-filter-tags .th-btn.style3:hover,
+.category-filter-tags .th-btn.style3:focus,
+.category-filter-tags .th-btn.style3:active {
+  background: var(--title-color);
+  border-color: var(--title-color);
+  color: #fff;
+}
+.category-filter-tags .th-btn.style3:hover::before,
+.category-filter-tags .th-btn.style3:hover:after,
+.category-filter-tags .th-btn.style3:focus::before,
+.category-filter-tags .th-btn.style3:focus:after {
+  background: var(--title-color);
+}
+
 /*# sourceMappingURL=style.css.map */
