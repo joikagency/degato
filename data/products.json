@@ -189,5 +189,16 @@
     "image_url": "assets/img/products/juguete-para-gatos-con-pluma-y-ventosa-13-piezas.jpg",
     "featured": false,
     "show_in_shop": true
+  },
+  {
+    "id": "prod-018",
+    "title": "Juguete interactivo de pluma con ventosa para gatos",
+    "slug": "juguete-interactivo-de-pluma-con-ventosa-para-gatos",
+    "category": "juguetes",
+    "description": "Juguete interactivo para gatos con pluma, pájaro y ventosa. Ideal para estimular el juego activo de tu gato en interiores.",
+    "affiliate_url": "https://amzn.to/4e8IaYd",
+    "image_url": "assets/img/products/juguete-interactivo-de-pluma-con-ventosa-para-gatos.jpg",
+    "featured": false,
+    "show_in_shop": true
   }
 ]
