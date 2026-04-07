@@ -156,5 +156,60 @@
     "image_url": "assets/img/products/comedero-automatico-petliv-con-2-cuencos-y-app.jpg",
     "featured": false,
     "show_in_shop": true
+  },
+  {
+    "id": "prod-015",
+    "title": "Comedero automático oneisall 2 en 1 con dispensador de agua",
+    "slug": "comedero-automatico-oneisall-2-en-1-con-dispensador-de-agua",
+    "category": "alimentacion",
+    "description": "Comedero automático 2 en 1 con dispensador de comida y agua, gran capacidad y temporizador. Ideal para mantener la alimentación de tu gato más organizada durante el día.",
+    "affiliate_url": "https://amzn.to/4sReKm5",
+    "image_url": "assets/img/products/comedero-automatico-oneisall-2-en-1-con-dispensador-de-agua.jpg",
+    "featured": false,
+    "show_in_shop": true
+  },
+  {
+    "id": "prod-016",
+    "title": "Pelota interactiva Speedy Tail 2.0 para gatos",
+    "slug": "pelota-interactiva-speedy-tail-2-0-para-gatos",
+    "category": "juguetes",
+    "description": "Pelota interactiva automática para gatos con cola de plumas y modos inteligentes de movimiento. Ideal para estimular el juego en interiores.",
+    "affiliate_url": "https://amzn.to/4t3d0X8",
+    "image_url": "assets/img/products/pelota-interactiva-speedy-tail-2-0-para-gatos.jpg",
+    "featured": false,
+    "show_in_shop": true
+  },
+  {
+    "id": "prod-017",
+    "title": "Juguete para gatos con pluma y ventosa (13 piezas)",
+    "slug": "juguete-para-gatos-con-pluma-y-ventosa-13-piezas",
+    "category": "juguetes",
+    "description": "Set de juguetes para gatos con pluma, ventosa y campana. Ideal para que tu gato juegue solo en interiores y se mantenga activo.",
+    "affiliate_url": "https://amzn.to/4veQLPp",
+    "image_url": "assets/img/products/juguete-para-gatos-con-pluma-y-ventosa-13-piezas.jpg",
+    "featured": false,
+    "show_in_shop": true
+  },
+  {
+    "id": "prod-018",
+    "title": "Juguete interactivo de pluma con ventosa para gatos",
+    "slug": "juguete-interactivo-de-pluma-con-ventosa-para-gatos",
+    "category": "juguetes",
+    "description": "Juguete interactivo para gatos con pluma, pájaro y ventosa. Ideal para estimular el juego activo de tu gato en interiores.",
+    "affiliate_url": "https://amzn.to/4e8IaYd",
+    "image_url": "assets/img/products/juguete-interactivo-de-pluma-con-ventosa-para-gatos.jpg",
+    "featured": false,
+    "show_in_shop": true
+  },
+  {
+    "id": "prod-019",
+    "title": "Quitapelos lavable y reutilizable ACE2ACE",
+    "slug": "quitapelos-lavable-y-reutilizable-ace2ace",
+    "category": "accesorios",
+    "description": "Cepillo quitapelos lavable y reutilizable para retirar pelo de mascotas de ropa, alfombras y sofás de forma práctica.",
+    "affiliate_url": "https://amzn.to/4bV5szt",
+    "image_url": "assets/img/products/quitapelos-lavable-y-reutilizable-ace2ace.jpg",
+    "featured": false,
+    "show_in_shop": true
   }
 ]
