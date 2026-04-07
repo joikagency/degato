@@ -167,5 +167,16 @@
     "image_url": "assets/img/products/comedero-automatico-oneisall-2-en-1-con-dispensador-de-agua.jpg",
     "featured": false,
     "show_in_shop": true
+  },
+  {
+    "id": "prod-016",
+    "title": "Pelota interactiva Speedy Tail 2.0 para gatos",
+    "slug": "pelota-interactiva-speedy-tail-2-0-para-gatos",
+    "category": "juguetes",
+    "description": "Pelota interactiva automática para gatos con cola de plumas y modos inteligentes de movimiento. Ideal para estimular el juego en interiores.",
+    "affiliate_url": "https://amzn.to/4t3d0X8",
+    "image_url": "assets/img/products/pelota-interactiva-speedy-tail-2-0-para-gatos.jpg",
+    "featured": false,
+    "show_in_shop": true
   }
 ]
