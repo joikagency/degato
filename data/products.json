@@ -9,7 +9,7 @@
     "affiliate_url": "https://amzn.to/4i3Q0fF",
     "image_url": "assets/img/products/tunel-2en1.jpg",
     "featured": true,
-    "show_in_shop": false
+    "show_in_shop": true
   },
   {
     "id": "prod-002",
@@ -21,7 +21,7 @@
     "affiliate_url": "https://amzn.to/4i6Iw3F",
     "image_url": "assets/img/products/cama-cueva.jpg",
     "featured": false,
-    "show_in_shop": false
+    "show_in_shop": true
   },
   {
     "id": "prod-003",
@@ -33,7 +33,7 @@
     "affiliate_url": "https://amzn.to/4jrC6yy",
     "image_url": "assets/img/products/juguete-plumas.jpg",
     "featured": false,
-    "show_in_shop": false
+    "show_in_shop": true
   },
   {
     "id": "prod-004",
@@ -121,6 +121,17 @@
     "description": "Cama cueva tipo tipi para gatos o mascotas pequeñas, con diseño acogedor y cálido. Ideal para descanso cómodo en interiores.",
     "affiliate_url": "https://amzn.to/4sYJ52f",
     "image_url": "assets/img/products/cama-cueva-tipi-galatee-para-gatos.jpg",
+    "featured": false,
+    "show_in_shop": true
+  },
+  {
+    "id": "prod-012",
+    "title": "Comedero automático Faroro con cámara y app",
+    "slug": "comedero-automatico-faroro-con-camara-y-app",
+    "category": "alimentacion",
+    "description": "Comedero automático para gatos o perros pequeños con cámara HD, visión nocturna, audio bidireccional y control por app. Ideal para alimentar y supervisar a tu mascota a distancia.",
+    "affiliate_url": "https://amzn.to/3OdkveC",
+    "image_url": "assets/img/products/comedero-automatico-faroro-con-camara-y-app.jpg",
     "featured": false,
     "show_in_shop": true
   }
