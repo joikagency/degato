@@ -156,5 +156,16 @@
     "image_url": "assets/img/products/comedero-automatico-petliv-con-2-cuencos-y-app.jpg",
     "featured": false,
     "show_in_shop": true
+  },
+  {
+    "id": "prod-015",
+    "title": "Comedero automático oneisall 2 en 1 con dispensador de agua",
+    "slug": "comedero-automatico-oneisall-2-en-1-con-dispensador-de-agua",
+    "category": "alimentacion",
+    "description": "Comedero automático 2 en 1 con dispensador de comida y agua, gran capacidad y temporizador. Ideal para mantener la alimentación de tu gato más organizada durante el día.",
+    "affiliate_url": "https://amzn.to/4sReKm5",
+    "image_url": "assets/img/products/comedero-automatico-oneisall-2-en-1-con-dispensador-de-agua.jpg",
+    "featured": false,
+    "show_in_shop": true
   }
 ]
