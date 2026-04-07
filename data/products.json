@@ -90,5 +90,16 @@
     "image_url": "assets/img/products/rascador-vertical-fukumaru-en-forma-de-l.jpg",
     "featured": false,
     "show_in_shop": true
+  },
+  {
+    "id": "prod-009",
+    "title": "Árbol rascador PawHut grande de 206 cm",
+    "slug": "arbol-rascador-pawhut-grande-de-206-cm",
+    "category": "rascadores",
+    "description": "Árbol rascador grande para gatos con plataformas, cuevas, bolas colgantes y hamacas. Ideal para juego, descanso y rascado en un solo espacio.",
+    "affiliate_url": "https://amzn.to/4tw6O9E",
+    "image_url": "assets/img/products/arbol-rascador-pawhut-grande-de-206-cm.jpg",
+    "featured": false,
+    "show_in_shop": true
   }
 ]
