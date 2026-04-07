@@ -101,5 +101,16 @@
     "image_url": "assets/img/products/arbol-rascador-pawhut-grande-de-206-cm.jpg",
     "featured": false,
     "show_in_shop": true
+  },
+  {
+    "id": "prod-010",
+    "title": "Cama cueva de ratán PawHut con base trípode",
+    "slug": "cama-cueva-de-ratan-pawhut-con-base-tripode",
+    "category": "camas",
+    "description": "Cama cueva elevada de ratán para gatos o mascotas pequeñas, con cojín suave y base estable. Ideal para descanso cómodo con estilo natural.",
+    "affiliate_url": "https://amzn.to/4bW4kM7",
+    "image_url": "assets/img/products/cama-cueva-de-ratan-pawhut-con-base-tripode.jpg",
+    "featured": false,
+    "show_in_shop": true
   }
 ]
